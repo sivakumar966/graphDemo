@@ -14,3 +14,4 @@ This development involves creating an interactive line chart using D3.js within 
    A tooltip appears when the user hovers over the line. This tooltip dynamically displays the current X and Y values based on the mouse position, offering immediate feedback on the data represented by the chart.
    The tooltip's position follows the mouse cursor, improving accessibility and user experience.
  
+![Alt text](output/linechart.JPG?raw=true "Title")
